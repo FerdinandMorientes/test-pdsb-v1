@@ -14,6 +14,4 @@ rl.question('Enter first integer: ', (num1) => { // print message and wait for u
     console.log(`The sum is: ${sum}`); // print sum to user
     rl.close(); // close the readline interface when done
   });
-});
-
-// execute the script using 'node test.js' on the command line
+});// execute the script using 'node test.js' on the command line
